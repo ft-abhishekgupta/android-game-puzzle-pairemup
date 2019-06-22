@@ -10,6 +10,8 @@
 1. Build and Run Project.
 
 ## About App :
+![](./promo.jpg) 
+
 Pair'em Up is a matching game where you have to use your memory to quickly find and match all the characters.
 
 Comprises of three levels -
